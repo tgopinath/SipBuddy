@@ -1,0 +1,9 @@
+build/
+dist/
+xcuserdata/
+*.xcuserstate
+.DS_Store
+build-test/
+marketing/SipBuddy.dmg
+*.dmg
+*.zip
